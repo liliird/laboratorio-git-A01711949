@@ -12,3 +12,13 @@ Voy en 7mo semestre de ITC, en la carrera he trabajado en distintos proyectos re
 | Figma       | Intermedio                |
 | Python      | Intermedio - Avanzado     |
 | Canva       | Avanzado                  |
+
+## Reflexión 
+- **¿Qué parte de la práctica te resultó más confusa y cómo la resolviste?**
+
+    Me resultó más confusa la parte de resolver conflictos en mi equipo, personalmente ya tenía experiencia utilizando Github, sin embargo un compañero no logró (ni yo logré ayudarle) hacer que apareciera la opción para aceptar ambos cambios. Coordinarnos entre todos cuando la mayoría no había usado github o vs code antes fue de lo más retador.
+    
+- **¿Cómo crees que tu equipo usará el repositorio durante las etapas de UX y UI?**
+
+    Un repositorio es súper útil para trabajar con un control de versiones ordenado, para tener una buena estructura y saber qué hace quién.
+    Esto nos ayudará a tener un trabajo iterado y poder versionarlo a nuestra conveniencia cuando querramos volver o revertir algún cambio.
